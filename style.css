@@ -2,7 +2,7 @@
    --primario: #123;
    --fondoPantalla: #B2BABB;
    --colorBoton: #147;
-   --AlternativoBoton: #009933;
+   --alternativoBoton: #009933;
    --colorResaltador: #00CC33;
    --colorTexto: #abd;
    --blanco: #fff;
@@ -41,6 +41,7 @@ h1 span {
 
 p {
    color: var(--colorTexto);
+   text-align: center;
 }
 
 .contenedor {
