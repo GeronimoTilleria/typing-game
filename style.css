@@ -86,10 +86,6 @@ p {
     border-color: red !important;
  }
 
- #message {
-   text-align: center;
- }
-
 #inicio {
    transition: all 300ms;
 }
