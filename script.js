@@ -78,6 +78,7 @@ typedValueElement.addEventListener('input', () => {
 });
 
 botonNuevo.addEventListener('click', () => {
+  typedValueElement.style.display = 'block';
   inicializarJuego();
 });
 
