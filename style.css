@@ -2,7 +2,7 @@
    --primario: #123;
    --fondoPantalla: #B2BABB;
    --colorBoton: #147;
-   --AlternativoBoton: #009933;
+   --alternativoBoton: #009933;
    --colorResaltador: #00CC33;
    --colorTexto: #abd;
    --blanco: #fff;
@@ -119,7 +119,7 @@ p {
 #inicio:hover,
 #nuevo:hover,
 #salir:hover {
-   background-color: var(--AlternativoBoton);
+   background-color: var(--alternativoBoton);
 }
 
  /* UTILIDADES */
